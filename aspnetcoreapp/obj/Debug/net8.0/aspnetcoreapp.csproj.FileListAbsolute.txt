@@ -28,3 +28,4 @@ C:\Users\mikol\VSCode Projects\AspNetApp\aspnetcoreapp\obj\Debug\net8.0\refint\a
 C:\Users\mikol\VSCode Projects\AspNetApp\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.pdb
 C:\Users\mikol\VSCode Projects\AspNetApp\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.genruntimeconfig.cache
 C:\Users\mikol\VSCode Projects\AspNetApp\aspnetcoreapp\obj\Debug\net8.0\ref\aspnetcoreapp.dll
+C:\Users\mikol\VSCode Projects\AspNetApp\aspnetcoreapp\obj\Debug\net8.0\aspnetcoreapp.sourcelink.json
